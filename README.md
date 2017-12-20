@@ -1,2 +1,2 @@
-# valutsamaxim.github.io
-Мой первый опубликованный сайт
+# Maxim Valutsa
+Мои домашние задания
